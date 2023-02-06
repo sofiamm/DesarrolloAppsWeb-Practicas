@@ -1,0 +1,70 @@
+body {
+    background-color: #325938;
+    color: white;
+    font-family: sans-serif;
+    padding: 120px 200px 0px;
+}
+
+h1 {
+    color: #F285AD;
+}
+
+h2 {
+    color: #4BA66A;
+}
+
+.sugerencias {
+    position: absolute;
+    border-radius: 20px;
+    background-color: #131E0E;
+    color: white;
+    padding: 20px 30px;
+    margin: 80px 305px;}
+
+.sugerencias h1{
+    text-align: center;
+    padding: 10px;
+}
+
+.btn-submit {
+    border-radius: 8px;
+    border: none;
+    color: white;
+    background-color: #F285AD;
+    font-size: 15px;
+    padding: 10px 40px;
+    margin: 20px 112px 0;
+}
+
+.content {
+    margin-bottom: 60px;
+}
+
+.encabezadoTabla {
+    background-color: #131E0E;
+}
+
+.tablaResumen {
+    background-color: #4BA66A;
+}
+
+.tablaLink {
+    color: #F285AD;
+    text-decoration: none;
+}
+
+#piePagina {
+    background-color: #1A2612;
+    bottom: 0;
+    color: white;
+    height: 6%;
+    left: 0;
+    text-align: center;
+    padding: 8px 0px;
+    position: fixed;
+    width: 100%;
+}
+
+#piePagina address {
+    display: inline;
+}
